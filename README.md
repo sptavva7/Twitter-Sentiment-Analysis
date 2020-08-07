@@ -47,21 +47,29 @@ Finding the sentiment of the tweet:
 
 ### Positive:
 Tweets containing the following emoticons:
+
 :-) :) :o) :] :3 :c) XD :D :P
+
 Tweets containing the following hashtags:
+
 #great #best #happy #lol #feelingblessed #blessed #success #amazing #bestfeeling
 #wonderful #thankfulfor #TGIF #holiday #vacation #music #fun #dance #memories
 
 ### Neutral:
 Tweets containing the follow emoticons:
-:| {u+1F636} {u+1F644}
+
+:| {u+1F636}:😶 {u+1F644}:🙄
+
 Tweets containing the following hashtags:
+
 #job #news #listeningto #ok #facts #hiring #currentaffairs #world
 
 ### Negative:
 Tweets containing the following emoticons:
 :-( :( :o( :c( DX D:
+
 Tweets containing the following hashtags:
+
 #bored #boredatwork #sad #worst #wrong #angry #messedup #fail #ihate
 #nevertrust #worstfeeling
 
