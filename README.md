@@ -38,9 +38,10 @@ is carrying. Ex: “The sun is very bright today and it is hot” will be split 
 {“Sun”,”bright”,”today”, “hot”}. Tokenization will also remove duplicate letters in a
 word. Ex: “Happpyyy” will be converted to “Happy”.
 Data will be classified based on a three point scale:
-● Positive
-● Neutral
-● Negative
+* Positive
+* Neutral
+* Negative
+
 A sorting algorithm is used to classify the data.
 Finding the sentiment of the tweet:
 
